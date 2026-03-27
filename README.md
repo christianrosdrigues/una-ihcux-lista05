@@ -15,4 +15,4 @@ O sistema utiliza cores e organização visual simples para destacar informaçõ
 
 ## Evidência
 
-![Execução do sistema](evidencia-final.png)
+![Execução do sistema](evidência-final.png.jpeg)
